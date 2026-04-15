@@ -1,6 +1,6 @@
 # callose-quantification-imagej
 Automated ImageJ-based workflow for callose quantification using machine learning segmentation and particle analysis (Custom Macros, Fiji-ImageJ & WEKA segmentation Plugin).
-The scripts and trained model provided in this repository are associated with the protocol described in the article *“An optimized protocol to detect callose deposition in soybean lateral roots during fungal infections.”*
+The Macros scripts and trained model provided in this repository are associated with the protocol described in the article *“An optimized protocol to detect callose deposition in soybean lateral roots during fungal infections.”*
 ## 🔍 Use case
 - Measures root area from microscopy images  
 - Identifies callose deposits using a trained Weka classifier  
