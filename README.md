@@ -7,8 +7,8 @@ The scripts and trained model provided in this repository are associated with th
 - Automatically counts callose particles  
  
 ## 📁 Repository structure
-- `macros/` – ImageJ macro scripts (`.ijm`)  
-- `model/` – Pre-trained classifier for callose detection  
+- `macros/` – ImageJ macro scripts (`.ijm`)  - parameters can be adjusted as per the need. (Please refer the article)  
+- `model/` – Pre-trained classifier for callose detection. Model can be retrained as per the need. (Please refer the article)  
 - `example_data/` – Sample images and outputs  
 
 ## ▶️ Quick start
